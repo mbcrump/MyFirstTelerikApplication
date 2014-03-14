@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: Chart201410212.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/telerikapp/build/exploded-bundles/Chart201410212.aar/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/telerikapp/build/exploded-bundles/Chart201410212.aar/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

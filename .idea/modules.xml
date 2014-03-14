@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyFirstTelerikApplication.iml" filepath="$PROJECT_DIR$/MyFirstTelerikApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telerikapp/telerikapp.iml" filepath="$PROJECT_DIR$/telerikapp/telerikapp.iml" />
+    </modules>
+  </component>
+</project>
+
